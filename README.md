@@ -23,7 +23,7 @@ A site for displaying select artworks from 11-EM-Cassia (2026-2027), serving as 
 Our "Gallery Walk" project for Finite Mathematics is only displayed physically, and is only unfortunately displayed for a maximum of 2 weeks. Via this website, the artworks can be displayed for an indefinite amount of time, for future eyes to see.
 
 ## How to Use the Program
-1. Access the website's page on ***[insert deployed link here]***. No need to install anything on your local device.
+1. Access the website's page on https://cassianova-26-27.github.io/Digital-Gallery-Walk-Site---Cassia/. No need to install anything on your local device.
 2. Explore the site and view beautiful artworks.
 3. Choose to download any artworks you find beautiful and worthy to keep on your device.
 4. View the credits to see the roles and contributions of each member of the Gallery Walk.
