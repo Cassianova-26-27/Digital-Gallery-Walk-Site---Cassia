@@ -29,4 +29,6 @@ Our "Gallery Walk" project for Finite Mathematics is only displayed physically, 
 4. View the credits to see the roles and contributions of each member of the Gallery Walk.
 
 ## Screenshots!
-***[To be Added]***
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/94a28682-5845-4913-bf0a-6a5aef8d5805" />
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/0f514e42-49ed-4506-bf87-516a0fc6faba" />
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/63573cd0-88b7-45cf-8562-ece477b6d0d0" />
